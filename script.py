@@ -1,1 +1,2 @@
-input("Name please - ")
+n = input("Name please - ")
+print("Hello "+n+"!")
